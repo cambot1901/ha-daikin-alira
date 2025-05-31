@@ -1,4 +1,7 @@
 DAIKIN ALIRA HOME ASSISTANT INTEGRATION
+
+**Repository:** https://github.com/cambot1901/ha-daikin-alira
+
 A custom Home Assistant integration to control and monitor Daikin Alira air conditioners over HTTP. This integration provides:
 
 Sensors for:
