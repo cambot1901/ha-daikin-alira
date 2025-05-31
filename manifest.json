@@ -1,0 +1,12 @@
+{
+  "domain": "daikin_alira",
+  "name": "Daikin Alira",
+  "version": "0.1.1",
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@cambot1901"],
+  "platforms": ["sensor", "climate"],
+  "documentation": "https://github.com/cambot1901/ha-daikin-alira"
+}
